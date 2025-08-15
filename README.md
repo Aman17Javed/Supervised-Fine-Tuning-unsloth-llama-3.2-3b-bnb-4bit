@@ -19,7 +19,7 @@ Internet access for downloading models and datasets from Hugging Face.
 **Installation**
 
 Clone the repository:
-textgit clone [https://github.com/your-username/your-repo.git](https://github.com/Aman17Javed/Supervised-Fine-Tuning-unsloth-llama-3.2-3b-bnb-4bit)
+textgit clone (https://github.com/Aman17Javed/Supervised-Fine-Tuning-unsloth-llama-3.2-3b-bnb-4bit)
 cd your-repo
 
 Install dependencies (run in the notebook or via terminal):
